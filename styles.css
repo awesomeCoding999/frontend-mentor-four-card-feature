@@ -124,8 +124,17 @@ footer {
     width: 540px;
   }
 
+  .tag-line,
+  .title {
+    font-size: 2.25rem;
+  }
+
   .cards-container {
     flex-direction: row;
+  }
+
+  .card {
+    width: 350px;
   }
 
   .supervisor-card {
